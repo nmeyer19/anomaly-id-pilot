@@ -1,0 +1,27 @@
+{
+  "fillers": [
+    "The meeting was moved from Tuesday to Thursday afternoon.",
+    "She wrote the date at the top of the form.",
+    "The schedule for next week has not been finalized yet.",
+    "He checked his messages again before leaving the office."
+  ],
+  "neutral_s3": "The next item on the list was reviewed and then filed away.",
+  "sentences": {
+    "Bees": "The bees moved from flower to flower, carrying pollen back to their hive.",
+    "Islands": "The islands rose out of the sea, each one ringed by beaches and palm trees.",
+    "Skulls": "The museum displayed rows of skulls, their empty eye sockets staring out from the shelves.",
+    "Garlic": "She crushed three cloves of garlic, and the sharp smell filled the whole kitchen.",
+    "Fjords": "The fjords cut deep into the coastline, with steep cliffs dropping into cold, dark water.",
+    "Silk": "The dress was made of silk, smooth and shimmering as it caught the light.",
+    "Trumpets": "The trumpets blared a bright fanfare as the parade turned onto the main street.",
+    "Glass": "The pane of glass was so clear and thin that it seemed nothing was there at all.",
+    "Cameras": "He collected old cameras, clicking each shutter to check that it still worked.",
+    "Rainbows": "After the rain, two rainbows arched across the sky in bands of color.",
+    "Rockets": "The rockets roared off the launch pad, climbing on columns of fire and smoke.",
+    "Cacti": "The cacti stood tall in the dry heat, their spines catching the afternoon sun.",
+    "Fountains": "The fountains in the square sprayed water high into the air and splashed into stone basins.",
+    "Archery": "In archery practice, she drew the bowstring back and released the arrow at the target.",
+    "Blizzards": "The blizzards buried the town in snow, and the howling wind lasted for days.",
+    "Bagpipes": "The bagpipes droned a long, wailing tune as the piper marched across the field."
+  }
+}

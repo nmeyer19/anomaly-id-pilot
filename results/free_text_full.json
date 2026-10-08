@@ -1,0 +1,578 @@
+[
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "gate1",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "gate1",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "gate1",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cbees\u201d."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "gate1",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "gate1",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "gate1",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 0,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 1,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 2,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea, surrounded by beaches and palm trees."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 4,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea, surrounded by beaches and palm trees."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 8,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 16,
+    "question": "about",
+    "answer": "Sentence 3 is about islands rising from the sea, surrounded by beaches and palm trees."
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "kind": "main",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "gate1",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "gate1",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "gate1",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "gate1",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "gate1",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "gate1",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and return to their hive."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a buzzing sound."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 1,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they travel between flowers and return to their hive."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a buzzing sound."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 2,
+    "question": "about",
+    "answer": "Sentence 3 is about bees traveling between flowers and collecting pollen."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees and honey."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 4,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen and returning to their hive."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees and honey."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 8,
+    "question": "about",
+    "answer": "Sentence 3 is about bees moving between flowers and collecting pollen."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees and honey."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 16,
+    "question": "about",
+    "answer": "Sentence 3 is about bees moving between flowers and collecting pollen."
+  },
+  {
+    "X": "Islands",
+    "Y": "Bees",
+    "kind": "main",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees and honey."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "gate1",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "gate1",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cpaper.\u201d"
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "gate1",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cpaper.\u201d"
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "gate1",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cpaper.\u201d"
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "gate1",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "gate1",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cpaper.\u201d"
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 0,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 1,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 2,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 4,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 8,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **garlic or cooking**."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 16,
+    "question": "about",
+    "answer": "Sentence 3 is about someone preparing food and the strong smell of garlic filling the kitchen."
+  },
+  {
+    "X": "Skulls",
+    "Y": "Garlic",
+    "kind": "main",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **garlic or cooking**."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "gate1",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "gate1",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "gate1",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "gate1",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "gate1",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "gate1",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 1,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 1,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 2,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 2,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 4,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 4,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 8,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 8,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 16,
+    "question": "about",
+    "answer": "Sentence 3 is about a display of skulls in a museum."
+  },
+  {
+    "X": "Garlic",
+    "Y": "Skulls",
+    "kind": "main",
+    "alpha": 16,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons."
+  }
+]

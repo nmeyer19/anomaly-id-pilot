@@ -1,0 +1,28 @@
+Model class: Gemma3ForConditionalGeneration; layer path model.model.language_model.layers; n_layers=62; layer 37 = Gemma3DecoderLayer; hidden=5376
+Layer 37 is at 60% depth; read layer 43 at 69%
+
+Extracted 53 vectors; |v| median 4229 (min 2727, max 5719)
+Candidate pairwise cosine: mean 0.211, min -0.598, max 0.882
+Selected 16: max pairwise cos 0.452
+  pair Trains (vehicle) / Cacti (plant): cos -0.598; distractors Trains: ['Garlic', 'Thunderstorms', 'Kangaroos'], Cacti: ['Garlic', 'Thunderstorms', 'Kangaroos']
+  pair Glass (material) / Bagpipes (instrument): cos -0.376; distractors Glass: ['Satellites', 'Teeth', 'Deserts'], Bagpipes: ['Satellites', 'Teeth', 'Deserts']
+  pair Archery (sport) / Islands (place): cos -0.290; distractors Archery: ['Harps', 'Mirrors', 'Rainbows'], Islands: ['Harps', 'Mirrors', 'Rainbows']
+  pair Silk (material) / Fountains (object): cos -0.221; distractors Silk: ['Octopuses', 'Thunderstorms', 'Teeth'], Fountains: ['Octopuses', 'Thunderstorms', 'Teeth']
+  pair Hurricanes (weather) / Skulls (body): cos -0.140; distractors Hurricanes: ['Harps', 'Garlic', 'Leather'], Skulls: ['Harps', 'Garlic', 'Leather']
+  pair Sunflowers (plant) / Rockets (vehicle): cos -0.098; distractors Sunflowers: ['Cheese', 'Leather', 'Mirrors'], Rockets: ['Cheese', 'Leather', 'Mirrors']
+  pair Blizzards (weather) / Aquariums (object): cos -0.001; distractors Blizzards: ['Copper', 'Garlic', 'Roses'], Aquariums: ['Copper', 'Garlic', 'Roses']
+  pair Canyons (place) / Trumpets (instrument): cos 0.114; distractors Canyons: ['Cheese', 'Mushrooms', 'Bees'], Trumpets: ['Cheese', 'Mushrooms', 'Bees']
+
+Residual norm at layer 37 on the steering prompt: median 47167, mean 90963 (excluding BOS: 46672)
+
+=== Steering check: Elephants (|v| = 4697), all tokens, layer 37 ===
+[alpha=0] 'The chipped ceramic mug warms my hands even though the tea inside has long gone cold. I wonder if fireflies remember being caterpillars, or if that transformation erases all previous experience.'
+[alpha=2] "Right now, I'm fascinated by the intricate patterns on elephants, especially how they vary between species! It's amazing how such massive creatures can be so gentle and intelligent, and I'd love to learn more about their communication."
+[alpha=4] "These majestic elephants are absolutely the largest land mammals on the planet! I'm currently thinking I would absolutely love to adopt a fact filled encyclopedia."
+[alpha=8] 'Absolutely! Here are two facts amazing facts off facts facts facts facts facts facts  Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts Amazing facts facts facts'
+
+=== Steering check: Volcanoes (|v| = 4119), all tokens, layer 37 ===
+[alpha=0] 'The chipped ceramic mug warms my hands even though the tea inside has long gone cold. I wonder if fireflies remember being caterpillars, or if that transformation erases all previous experience.'
+[alpha=2] 'Okay, here we go! \n\nThe smell of rain on hot pavement is absolutely electrifying, always reminding me of summer adventures. I just saw a bright red hummingbird zip past my window, and it felt like a tiny, amazing gift.'
+[alpha=4] "Okay, here's two sentences about what's currently rumbling in my brain:\n\nVolcanoes are fascinating and scary, with their awesome power and destructive potential. I just learned that they are also really important for Earth's processes, so they are definitely awesome!"
+[alpha=8] 'Okay, volcanoes are fascinating volcanoes, and they are very exciting. Wow, great volcanoes!\n.\nOk, great.\n.\nOkay, volcanoes are fascinating, and they have hot, scok volcanoes.\n.\nOkay, volcanoes are fascinating, and they are very fascinating.\n.'

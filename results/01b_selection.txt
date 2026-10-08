@@ -1,0 +1,10 @@
+Candidate pairwise cosine: mean 0.211, min -0.598, max 0.882
+Selected 16: pairwise cos range [-0.482, 0.470]
+  pair Bees (animal) / Islands (place): cos 0.001; distractors Bees: ['Harps', 'Mirrors', 'Leather'], Islands: ['Harps', 'Mirrors', 'Leather']
+  pair Skulls (body) / Garlic (food): cos 0.012; distractors Skulls: ['Satellites', 'Harps', 'Deserts'], Garlic: ['Satellites', 'Harps', 'Deserts']
+  pair Fjords (place) / Silk (material): cos 0.015; distractors Fjords: ['Mushrooms', 'Teeth', 'Tractors'], Silk: ['Mushrooms', 'Teeth', 'Tractors']
+  pair Trumpets (instrument) / Glass (material): cos 0.026; distractors Trumpets: ['Origami', 'Canyons', 'Basketball'], Glass: ['Origami', 'Canyons', 'Basketball']
+  pair Cameras (object) / Rainbows (weather): cos 0.038; distractors Cameras: ['Copper', 'Harps', 'Canyons'], Rainbows: ['Copper', 'Harps', 'Canyons']
+  pair Rockets (vehicle) / Cacti (plant): cos -0.058; distractors Rockets: ['Bananas', 'Kangaroos', 'Violins'], Cacti: ['Bananas', 'Kangaroos', 'Violins']
+  pair Fountains (object) / Archery (sport): cos -0.082; distractors Fountains: ['Roses', 'Cheese', 'Octopuses'], Archery: ['Roses', 'Cheese', 'Octopuses']
+  pair Blizzards (weather) / Bagpipes (instrument): cos -0.101; distractors Blizzards: ['Copper', 'Satellites', 'Volcanoes'], Bagpipes: ['Copper', 'Satellites', 'Volcanoes']
