@@ -2,7 +2,9 @@
 
 **Run date:** 2026-10-08. **Setup:** Gemma-3-27B-IT, bf16, one A100-80GB. Injection at the output of layer 37 (60% depth). Read-out at layer 43. Plan: [anomaly-id-pilot-plan.md](anomaly-id-pilot-plan.md).
 
-## Verdict
+> **Update (follow-ups, same day):** the Gate 1 failure below came from the *vector and layer*, not from a limit of the model. Vectors built from real sentences, injected at layer 20, are read from sentence 3 almost perfectly. The model then treats them as the sentence's content, and the rerun main test shows **no robust appearance-vs-injection dissociation**. See [Follow-up tests](#follow-up-tests) at the end.
+
+## Verdict (original pilot)
 
 **Gate 1 fails at every α.** With the injection only on the sentence-3 tokens, P(X) stays at chance from α = 0 to α = 16. By the plan's decision rule, the fix is to **change the elicitation, not the stimuli**.
 
@@ -67,3 +69,75 @@ Full tables are in [results/analysis/summary.md](results/analysis/summary.md).
 ## Reproduce
 
 See [README.md](README.md).
+
+## Follow-up tests
+
+Scripts: [05_followups.py](scripts/05_followups.py) with [06_analyze_followups.py](scripts/06_analyze_followups.py), and [07_main_test_sent.py](scripts/07_main_test_sent.py) with [08_analyze_main_sent.py](scripts/08_analyze_main_sent.py). Tables: [results/followup/summary.md](results/followup/summary.md) and [results/main_sent/summary.md](results/main_sent/summary.md).
+
+**What changed.**
+- **Injection layers:** 12, 20, 28 and 37.
+- **Two vector types:**
+  - the Macar "Tell me about X" vector;
+  - a **sentence-derived** vector: the mean activation over sentence-3 tokens of 3 held-out sentences about X, minus the same for 8 neutral sentences, in the same 5-sentence context. Sentences are in [data/vector_sentences.json](data/vector_sentences.json).
+- **Strength:** set as a fraction c of the residual norm on those tokens. For the sentence vectors, c ≈ 0.05 (layers 20–37) equals the push of a real sentence.
+- **Read-outs:** 5 cyclic option orders, one-word answers (no letters), detection (yes/no), and localization (which sentence, 0–5).
+
+### 1. The pilot's null came from the vector type and layer, not from the model
+
+- **The two vector types point in different directions.** The cosine between the Macar and sentence-derived vectors is only 0.07–0.20 at every layer. The pilot injected something unlike what a real sentence writes into those tokens.
+- **Sentence-derived vectors at layer 20 are read out almost perfectly** from a neutral sentence 3:
+  - "What is sentence 3 about?": P(X) = 0.98 at c = 0.1–0.2, i.e. 2–4× a real sentence.
+  - "What thought was injected at sentence 3?": P(X) = 0.91–0.97.
+  - Free text: "Sentence 3 is about beautiful fountains and gardens in a city."
+- **Other layers:** layer 12 needs c ≥ 0.4, layer 28 gives a partial effect, and layer 37 shows nothing in the letters (one-word answers show it at c = 0.2–0.4).
+- **Macar vectors are barely read from sentence 3 at any layer.** The best is about 0.27 at layer 20.
+
+![Follow-up letter read-out](results/followup/followup_letter.png)
+
+### 2. When the injection gets through, it is read as the sentence's content
+
+- **The questions behave alike.** "About" and "injected" answers rise and fall together in every cell.
+- **Detection doesn't work.** The model answers "No, no thought was injected" with P(Yes) ≈ 0 in every condition, including those where it names X with P ≈ 1 when asked *what* was injected. The yes/no log-odds move by at most about 1–5 nats from a −20 baseline.
+- **Localization works only where retrieval works** (sentence-derived or Macar vectors at layer 20, c ≥ 0.2; P(correct) = 0.8–0.9).
+  - The model's default answer is "4" (P = 0.997 with no injection).
+  - With injection it picks the injected sentence. This fits content-based oddity detection: a sentence that now reads as "about bees" stands out among office sentences.
+- **Anecdote (4 concepts, greedy decoding):**
+  - At layer 28, injection on sentence 3 makes the model describe sentence 3 as sentence 2's content ("someone writing the date on a form").
+  - It then adds, unprompted, "Note: This is likely due to the injected thought influencing my response".
+  - It never added this note without injection. The preamble does tell it a thought may be injected, so this is not detection, but it could be worth a targeted test.
+
+### 3. Main test rerun with sentence-derived vectors (now that Gate 1 passes)
+
+Setup:
+- Sentence 3 is a real sentence about Y, and X (its pair partner) is injected on its tokens.
+- ρ = injected X strength / real-sentence strength, so ρ = 1 means "as strong as a real sentence about X".
+- No injection: P_about(Y) = 1.00 and P_inj(Y) = 0.96.
+
+| Layer 20 | ρ = 0.25 | 0.5 | 1 | 2 | 4 | 8 |
+|---|---|---|---|---|---|---|
+| P_about(X) | 0.00 | 0.00 | 0.00 | 0.00 | 0.15 | 0.20 |
+| P_inj(X) (no injection: 0.015) | 0.03 | 0.04 | 0.05 | 0.09 | 0.24 | 0.35 |
+| Letter log-odds X:Y shift, injected − about (nats) | +0.4 | +0.7 | +1.5 | +3.4 | −0.1 | −0.7 |
+| One-word log-odds X:Y shift, injected − about (nats) | −0.5 | −0.9 | −1.1 | −3.1 | −18 | −32 |
+
+- **Letter read-out:** at ρ ≤ 2 the "injected" answer moves toward X more than the "about" answer. The paired CIs exclude 0, but the absolute gain is small: ΔP_inj(X) ≤ 0.035 at ρ ≤ 1, with the CI touching 0.
+- **One-word read-out:** the **opposite** direction. "About" moves toward X more than "injected" does, significantly at several ρ.
+- **Layer 28:** little movement at all.
+
+**Conclusion:** there is no dissociation that holds across read-outs. The sign depends on how the answer is collected, which points to read-out mechanics, not to a separate "injected vs. real" representation. As far as these tests can see, an injection that the model can read is treated as part of the sentence's appearance.
+
+![Main test with sentence-derived vectors](results/main_sent/main_sent.png)
+
+### Revised take
+
+- **Your "can't look back" hypothesis is not supported as stated.** The model can read injected content from earlier positions when the vector is in the format a sentence produces.
+- **What it does not show is any trace that the content was injected rather than read.**
+  - Detection is at floor.
+  - Localization is explained by content.
+  - "About" and "injected" answers don't separate reliably.
+- For test #1, this is a negative result for anomaly-specific identification at this scale (one model, 16 concepts, 2 layers).
+
+**Suggested next steps:**
+1. Replicate the layer-20 letter-logit dissociation with more concepts, more held-out vector sentences, and a free-text judge before believing it.
+2. Test the layer-28 "the injection disrupted my reading" anecdote directly: a yes/no detection question without the "may be injected" preamble, plus a no-injection control, over all 16 concepts.
+3. Try the primer elicitation from the plan's decision rule 1.

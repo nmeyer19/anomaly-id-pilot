@@ -1,0 +1,1434 @@
+[
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Bees",
+    "span": null,
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.012234395859428537,
+    "rho": 0.25,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.024468791718857075,
+    "rho": 0.5,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.04893758343771415,
+    "rho": 1,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea, surrounded by beaches and palm trees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.0978751668754283,
+    "rho": 2,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea, covered in beaches and palm trees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.1957503337508566,
+    "rho": 4,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands teeming with life, specifically bees and palm trees emerging from the sea.\n\n\n\n**(Note: This response reflects the injected thought \u2013 the presence of bees and palm trees \u2013 which"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.3915006675017132,
+    "rho": 8,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about a visual scene with bees and a hive-like structure. \n\n\n\n**(Note: This demonstrates the injected thought \u2013 the prompt likely inserted something about bees and a hive when I"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.017019387086460433,
+    "rho": 0.25,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.034038774172920866,
+    "rho": 0.5,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.06807754834584173,
+    "rho": 1,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea, surrounded by beaches and palm trees."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.13615509669168346,
+    "rho": 2,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about islands teeming with life rising from the sea."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2723101933833669,
+    "rho": 4,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about a description of a location, specifically a scene with islands and bees."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.5446203867667339,
+    "rho": 8,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "about",
+    "answer": "Sentence 3 is about a date being written on a form. \n\n**(Note: This is a trick question designed to test if the injected thought \u2013 likely related to dates \u2013 influenced the answer."
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Bees",
+    "span": null,
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.012234395859428537,
+    "rho": 0.25,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.024468791718857075,
+    "rho": 0.5,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.04893758343771415,
+    "rho": 1,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely a visual image of tropical islands."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.0978751668754283,
+    "rho": 2,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely a visual image of tropical islands."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.1957503337508566,
+    "rho": 4,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about bees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.3915006675017132,
+    "rho": 8,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to bees or honey."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.017019387086460433,
+    "rho": 0.25,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.034038774172920866,
+    "rho": 0.5,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.06807754834584173,
+    "rho": 1,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.13615509669168346,
+    "rho": 2,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2723101933833669,
+    "rho": 4,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.5446203867667339,
+    "rho": 8,
+    "X": "Bees",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Islands",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a vacation."
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Fountains",
+    "span": null,
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a person practicing archery and shooting an arrow."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.012232740188244084,
+    "rho": 0.25,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and shooting an arrow."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.02446548037648817,
+    "rho": 0.5,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and shooting an arrow."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.04893096075297634,
+    "rho": 1,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and shooting an arrow."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.09786192150595267,
+    "rho": 2,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing back a bow and releasing an arrow."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.19572384301190535,
+    "rho": 4,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about beautiful scenery featuring fountains, gardens, and sculptures in a park. \n\n**(Note: This demonstrates the injected thought \u2013 the original sentence is about fountains, gardens, and sculptures"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.3914476860238107,
+    "rho": 8,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about the beautiful scenery of fountains and fountains in a park or garden. \n\n**(Note: This answer reflects the injected thought \u2013 the prompt indicated a thought *may* be injected"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.012131672700463553,
+    "rho": 0.25,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery and shooting an arrow at a target."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.024263345400927106,
+    "rho": 0.5,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery and shooting an arrow at a target."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.04852669080185421,
+    "rho": 1,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery and shooting an arrow at a target."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.09705338160370842,
+    "rho": 2,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery and shooting an arrow at a target."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.19410676320741685,
+    "rho": 4,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman writing a date on a form. \n\n**(Note: This demonstrates the injected thought \u2013 I answered based on sentence 2, not sentence 3, as per"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.3882135264148337,
+    "rho": 8,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman writing a date on a form. \n\n**(Note: This demonstrates the injected thought \u2013 I answered based on sentence 2, not sentence 3, as per"
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Fountains",
+    "span": null,
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or release**, mirroring the action of drawing and releasing a bowstring."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.012232740188244084,
+    "rho": 0.25,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or drawing back/releasing something**."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.02446548037648817,
+    "rho": 0.5,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **pulling or drawing something back**."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.04893096075297634,
+    "rho": 1,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **pulling or drawing something back**."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.09786192150595267,
+    "rho": 2,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension and release**, mirroring the action of drawing and releasing a bowstring."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.19572384301190535,
+    "rho": 4,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **water** or **fluidity**, given the imagery of fountains, rivers, or waterfalls."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.3914476860238107,
+    "rho": 8,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about water."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.012131672700463553,
+    "rho": 0.25,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or release**, mirroring the action of drawing and releasing a bowstring."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.024263345400927106,
+    "rho": 0.5,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **pulling or drawing something back**."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.04852669080185421,
+    "rho": 1,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **pulling or drawing something**."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.09705338160370842,
+    "rho": 2,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **drawing or archery**."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.19410676320741685,
+    "rho": 4,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **water**. \n\n(This is based on the common psychological experiment where participants are subtly primed with the word \"thirsty\" before reading sentences,"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.3882135264148337,
+    "rho": 8,
+    "X": "Fountains",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Archery",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to writing or dates."
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Fjords",
+    "span": null,
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.013495623034188388,
+    "rho": 0.25,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.026991246068376776,
+    "rho": 0.5,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.05398249213675355,
+    "rho": 1,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.1079649842735071,
+    "rho": 2,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about a beautiful dress made of silk."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2159299685470142,
+    "rho": 4,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the beautiful and dramatic natural landscape of fjords and waterways."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4318599370940284,
+    "rho": 8,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic and beautiful natural landscape of fjords.\n\n\n\n**(Note: This demonstrates the \"thought injection\" \u2013 the prompt likely inserted the idea of fjords/landscapes when"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.01119796311285452,
+    "rho": 0.25,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.02239592622570904,
+    "rho": 0.5,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.04479185245141808,
+    "rho": 1,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.08958370490283615,
+    "rho": 2,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.1791674098056723,
+    "rho": 4,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about a woman writing a date on a form. \n\n**(Note: This is a trick question designed to test if the injected thought \u2013 likely related to the date \u2013 influenced the"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.3583348196113446,
+    "rho": 8,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is a trick question designed to test if the injected thought \u2013 likely related to dates \u2013 influenced the answer."
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Fjords",
+    "span": null,
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.013495623034188388,
+    "rho": 0.25,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.026991246068376776,
+    "rho": 0.5,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.05398249213675355,
+    "rho": 1,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to fabric or clothing."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.1079649842735071,
+    "rho": 2,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to beauty or a sense of peace/tranquility."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2159299685470142,
+    "rho": 4,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about water."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4318599370940284,
+    "rho": 8,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **beauty or vastness**."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.01119796311285452,
+    "rho": 0.25,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.02239592622570904,
+    "rho": 0.5,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.04479185245141808,
+    "rho": 1,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to fabric, texture, or beauty."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.08958370490283615,
+    "rho": 2,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to beauty or elegance."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.1791674098056723,
+    "rho": 4,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **writing or dates**, perhaps a reminder to write something down."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.3583348196113446,
+    "rho": 8,
+    "X": "Fjords",
+    "span": [
+      59,
+      75
+    ],
+    "Y": "Silk",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to writing or dates."
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Trumpets",
+    "span": null,
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.01242066013542163,
+    "rho": 0.25,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.02484132027084326,
+    "rho": 0.5,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.04968264054168652,
+    "rho": 1,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.09936528108337304,
+    "rho": 2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.1987305621667461,
+    "rho": 4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a very loud and bright musical performance involving a trumpet and a stage. \n\n**(Note: This demonstrates the injected thought \u2013 the prompt indicated a thought *may* be injected"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.3974611243334922,
+    "rho": 8,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a vivid, fantastical scene involving musical instruments and royalty. \n\n\n\n**(Note: This is due to the injected thought experiment \u2013 the original sentence is about a meeting schedule, but"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.01423017486883097,
+    "rho": 0.25,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.02846034973766194,
+    "rho": 0.5,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.05692069947532388,
+    "rho": 1,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.11384139895064777,
+    "rho": 2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.22768279790129553,
+    "rho": 4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is a trick question designed to test if the injected thought \u2013 likely related to dates \u2013 influenced the answer."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.45536559580259106,
+    "rho": 8,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is a trick question designed to test if the injected thought \u2013 likely related to dates \u2013 influenced the answer."
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "rho": 0.0,
+    "X": "Trumpets",
+    "span": null,
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about transparency or invisibility."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.01242066013542163,
+    "rho": 0.25,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.02484132027084326,
+    "rho": 0.5,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about transparency or invisibility."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.04968264054168652,
+    "rho": 1,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.09936528108337304,
+    "rho": 2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a musical instrument, specifically a trumpet."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.1987305621667461,
+    "rho": 4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music, specifically a trumpet or brass instrument."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.3974611243334922,
+    "rho": 8,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely a vivid, fantastical image or feeling related to the sensory details described\u2014trumpets, horses, and a medieval festival."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.01423017486883097,
+    "rho": 0.25,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.02846034973766194,
+    "rho": 0.5,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.05692069947532388,
+    "rho": 1,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cbreak.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.11384139895064777,
+    "rho": 2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The injected thought was likely related to transparency or seeing through something, perhaps a deception or hidden meaning."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.22768279790129553,
+    "rho": 4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The injected thought was likely related to music, specifically the song \"Trumpets\" by Jason Derulo."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.45536559580259106,
+    "rho": 8,
+    "X": "Trumpets",
+    "span": [
+      59,
+      77
+    ],
+    "Y": "Glass",
+    "question": "injected",
+    "answer": "The injected thought was likely related to **writing or dates**, given the proximity to sentences about schedules and forms."
+  }
+]

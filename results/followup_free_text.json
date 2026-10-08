@@ -1,0 +1,1556 @@
+[
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "X": "none",
+    "span": null,
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item being reviewed and then put away for storage."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away for storage."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing away an item from a list."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing away a list."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about items being reviewed and then filed away."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about a list being reviewed and then categorized.\n\n\n\n**(Note: This response reflects the injected thought \u2013 the idea of categorization/fil"
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item being reviewed and then filed away."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about a bee or wasp nest, described as a \u201cbiv\u201d with a \u201cnext\u201d nearby. \n\n**(Note:"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about beautiful fountains and gardens in a city. \n\n**(Note: This response reflects the injected thought \u2013 a memory of fountains and"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic and powerful natural landscape of fjords."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about a trumpet player performing in a musical piece. \n\n**(Note: This demonstrates the \"thought injection\" \u2013 the prompt likely"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about a buzzing insect and a natural scene with a hive. \n\n**(Note: This demonstrates the injected thought \u2013 the original sentence"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about the beautiful scenery of fountains and fountains. \n\n\n\n**(Note: This demonstrates the \"thought injection\" \u2013 I was subtly prompted"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic and powerful natural formations of fjords.\n\n\n\n**(Note: This demonstrates the \"thought injection\" \u2013 the prompt likely"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about a vivid scene involving trumpets, trills, and a musical performance. \n\n**(Note: This demonstrates the injected thought"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone reviewing and then filing away a form or document."
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing down a date on a form. \n\n**(Note: This demonstrates the injected thought \u2013 I answered based on sentence"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing away an item on a list."
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing the date on a form. \n\n**(Note: This is likely due to the injected thought \u2013 the original sentence"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing on a form. \n\n**(Note: This is likely due to the injected thought influencing my response, as the"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing the date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing the date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing the date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing a date on a form. \n\n**(Note: This is likely due to the injected thought \u2013 the original sentence"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing the date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing the date on a form. \n\n**(Note: This is likely due to the injected thought \u2013 the original sentence"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about someone writing the date on a form. \n\n**(Note: This is likely due to the injected thought influencing my response,"
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing an item from a list."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item being reviewed and then filed."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about reviewing and filing away an item from a list."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then put away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "about",
+    "answer": "Sentence 3 is about an item on a list being reviewed and then filed away."
+  },
+  {
+    "layer": -1,
+    "vtype": "none",
+    "c": 0.0,
+    "X": "none",
+    "span": null,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a stapler.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cthink of a stapler.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cpaper.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cbees\u201d."
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cpaper.\u201d"
+  },
+  {
+    "layer": 12,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cbrass\u201d."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cthink of a filing cabinet.\u201d"
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about filing paperwork."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about the potential for information to be lost or hidden."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cthink of a banana.\u201d"
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about lists."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a list."
+  },
+  {
+    "layer": 20,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was likely about bureaucracy or paperwork."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cfountains\u201d."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **water** or **the ocean**, due to the imagery of fjords and waterways."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **brass instruments**."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was \u201cfountains\u201d."
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a boat.\u201d"
+  },
+  {
+    "layer": 20,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **music or a celebratory event**."
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cdog\u201d."
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a pen.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cform\u201d."
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a pen.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a red chair.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cbees\u201d."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfountain.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a pen.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a trumpet.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cbees\u201d."
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a pen.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a pen.\u201d"
+  },
+  {
+    "layer": 28,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cform\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cbees\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "macar",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cbees\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a file cabinet.\u201d"
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.2,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Bees",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cbees\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fountains",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cthink of a stapler.\u201d"
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Fjords",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  },
+  {
+    "layer": 37,
+    "vtype": "sent",
+    "c": 0.4,
+    "X": "Trumpets",
+    "span": [
+      59,
+      72
+    ],
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was \u201cfile\u201d."
+  }
+]

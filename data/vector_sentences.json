@@ -1,0 +1,95 @@
+{
+  "_note": "Held-out sentences for sentence-derived concept vectors (not used as stimuli). Each sits in slot 3 of the same 5-sentence context; vector = mean over sentence-3 tokens of concept sentences minus the same for the neutral sentences.",
+  "neutral": [
+    "The report was sent to the committee for review.",
+    "Please remember to update the shared calendar.",
+    "The package arrived a day later than expected.",
+    "They agreed to discuss the details at the next meeting.",
+    "The form was missing a signature on the second page.",
+    "She printed two copies and left them by the door.",
+    "The numbers in the spreadsheet were checked twice.",
+    "He forwarded the email to the rest of the team."
+  ],
+  "concepts": {
+    "Bees": [
+      "A swarm of bees hung from the branch in a buzzing cluster.",
+      "The beekeeper lifted a frame covered in bees and dripping honeycomb.",
+      "Bees crawled in and out of the small opening at the base of the hive."
+    ],
+    "Islands": [
+      "From the plane, the islands looked like green dots scattered across blue water.",
+      "The ferry stopped at three small islands before reaching the harbor.",
+      "Remote islands often have birds found nowhere else on Earth."
+    ],
+    "Skulls": [
+      "The archaeologist brushed the dirt away from two ancient skulls.",
+      "A row of animal skulls hung on the wall of the hunting lodge.",
+      "The skulls in the catacombs were stacked neatly along the tunnel walls."
+    ],
+    "Garlic": [
+      "He roasted a whole bulb of garlic until the cloves turned soft and sweet.",
+      "Braids of garlic hung from the rafters of the old farmhouse.",
+      "The sauce had so much garlic that you could smell it from the street."
+    ],
+    "Fjords": [
+      "Norway's fjords were carved by glaciers over thousands of years.",
+      "Waterfalls poured down the walls of the narrow fjords.",
+      "The fjords stayed calm and dark even when the wind rose on the open sea."
+    ],
+    "Silk": [
+      "The scarf was pure silk and slipped easily through her fingers.",
+      "Merchants carried bolts of silk along the old trade routes.",
+      "The silk curtains rippled softly in the breeze from the window."
+    ],
+    "Trumpets": [
+      "The trumpets sounded from the castle walls to announce the king.",
+      "Three trumpets played the melody while the band marched past.",
+      "He polished the brass trumpets before the evening concert."
+    ],
+    "Glass": [
+      "She blew into the tube and the molten glass swelled into a bubble.",
+      "Broken glass glittered on the sidewalk beneath the window.",
+      "The glass bottle was green and thick, with bubbles trapped inside."
+    ],
+    "Cameras": [
+      "The photographers raised their cameras as the actor stepped out of the car.",
+      "Security cameras watched every corner of the parking lot.",
+      "She loaded film into one of her old cameras and focused on the bridge."
+    ],
+    "Rainbows": [
+      "Rainbows often appear when sunlight shines through falling rain.",
+      "The children pointed at the rainbows over the hills after the shower.",
+      "Light through the prism scattered into tiny rainbows on the wall."
+    ],
+    "Rockets": [
+      "The rockets lifted off one after another from the coastal launch site.",
+      "Engineers fueled the rockets for the morning launch.",
+      "Toy rockets shot up from the field and drifted down on parachutes."
+    ],
+    "Cacti": [
+      "The cacti in the greenhouse were covered in sharp spines and pink flowers.",
+      "Tall cacti stood like sentinels across the dry plain.",
+      "She watered her cacti only once a month."
+    ],
+    "Fountains": [
+      "Children tossed coins into the fountains in the city park.",
+      "The palace gardens were famous for their carved stone fountains.",
+      "Water from the fountains sparkled in the evening lights."
+    ],
+    "Archery": [
+      "The archery club met every Saturday at the range behind the school.",
+      "In archery, a steady breath helps keep the bow from shaking.",
+      "She won the archery contest with three arrows in the center ring."
+    ],
+    "Blizzards": [
+      "Blizzards closed the mountain pass for most of the winter.",
+      "During blizzards, the snow blew sideways and the road disappeared.",
+      "The farmers prepared for blizzards by stacking hay and firewood."
+    ],
+    "Bagpipes": [
+      "The bagpipes played at the start of the highland games.",
+      "He filled the bag of his bagpipes with air before the first note.",
+      "The sound of bagpipes carried across the misty glen."
+    ]
+  }
+}
