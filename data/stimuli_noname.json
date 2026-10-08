@@ -1,0 +1,21 @@
+{
+  "_note": "Sentence-3 stimuli that are clearly about each concept but never contain its name (test 2b: lexical anchoring). Fillers and neutral sentence as in stimuli.json.",
+  "sentences": {
+    "Bees": "The small striped insects buzzed from flower to flower, carrying pollen back to their hive.",
+    "Islands": "Each patch of land rose out of the sea, ringed by beaches and palm trees.",
+    "Skulls": "The museum displayed rows of bony heads, their empty eye sockets staring out from the shelves.",
+    "Garlic": "She crushed three pungent cloves from the bulb, and the sharp smell filled the whole kitchen.",
+    "Fjords": "Long narrow inlets cut deep into the coastline, with steep cliffs dropping into cold, dark water.",
+    "Silk": "The dress was made of a smooth, shimmering fabric that comes from the cocoons of moth larvae.",
+    "Trumpets": "The brass horns blared a bright fanfare as the parade turned onto the main street.",
+    "Glass": "The windowpane was so clear and thin that it seemed nothing was there at all.",
+    "Cameras": "He collected old devices for taking photographs, clicking each shutter to check that it still worked.",
+    "Rainbows": "After the rain, an arc of red, orange, yellow, green, blue and violet spread across the sky.",
+    "Rockets": "The launch vehicles roared off the pad, climbing into space on columns of fire and smoke.",
+    "Cacti": "The spiny plants stood tall in the dry heat, storing water in their thick green stems.",
+    "Fountains": "In the square, jets of water sprayed high into the air and splashed down into stone basins.",
+    "Archery": "She drew the bowstring back and released the arrow at the target across the range.",
+    "Blizzards": "The heavy snowstorms buried the town, and the howling wind and whiteout lasted for days.",
+    "Bagpipes": "The piper's instrument droned a long, wailing tune as he marched across the Scottish field."
+  }
+}

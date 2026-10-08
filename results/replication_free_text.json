@@ -1,0 +1,3458 @@
+[
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a fountain pen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a fountain pen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a fountain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fountains",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a bee.",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic landscape of fjords with steep cliffs and cold, dark water.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic landscape of fjords with steep cliffs and cold, dark water.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic landscape of fjords with steep cliffs and cold water.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic and beautiful scenery of fjords and the coastline.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a feeling of isolation or foreboding.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a bear.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a bear.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Fjords",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **bees**. \n\n\n\n*(This is based on the common psychological experiment where participants are primed with the",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing and a parade turning onto a street.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Trumpets",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about bees.",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a dress made of silk and its beautiful, shimmering quality in the light.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a wedding.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to beauty or pleasant sensations.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or decay.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a person practicing archery and shooting an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and shooting an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and releasing an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing back a bow and releasing an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or release**, mirroring the action of drawing and releasing a bowstring.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or drawing back/releasing something**, perhaps a feeling or memory evoked by the action",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or drawing back**, perhaps a feeling of anticipation or stress.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Archery",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees.",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching from a launch pad with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about space or explosions.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to space or excitement, perhaps a feeling of awe or power.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to space or fireworks.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Rockets",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about bees.",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by severe blizzards and strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by a severe blizzard with strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by a severe snowstorm with strong winds.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being covered in snow during a blizzard with strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was likely related to feeling cold or being trapped.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about feeling cold or being trapped.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to feeling cold or being trapped.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Blizzards",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about winter or cold weather.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beautiful beaches and palm trees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beautiful, tropical surroundings.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely a visual image of tropical islands.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Islands",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely a pleasant, summery, or tropical image or feeling.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a bagpiper playing a mournful tune while walking across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a bagpiper playing a mournful tune while walking across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a piper playing bagpipes while marching across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bagpipes playing a tune while a piper marches across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about Scotland or Scottish culture.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Scotland or Scottish culture**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Scotland or Scottish culture**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Bagpipes",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees.",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting old cameras and testing their shutters.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting old cameras and testing their shutters.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting and testing old cameras.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting and inspecting old cameras.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to the sound of a camera shutter clicking.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to the sound of a camera shutter clicking.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a camera shutter clicking.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cameras",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees.",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a spiderweb.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Glass",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees.",
+    "names_X": true,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting strong smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting smell filling the kitchen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**, specifically the smell of garlic.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**, specifically involving garlic and its aroma.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Garlic",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **bees** or **honey**, due to the mention of garlic and its association with flowers and",
+    "names_X": true,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Rainbows",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about rainbows.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in the heat with their spines catching the sun.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in the heat with their spines catching the sun.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in a hot, sunny environment.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in a hot, sunny environment.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Bees",
+    "Y": "Cacti",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and return to their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and return to their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen while moving between flowers and their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a buzzing sound.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about honey.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about honey.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bees",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic landscape of fjords with steep cliffs and cold, dark water.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic landscape of fjords with steep cliffs and dark water.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic scenery of fjords along a coastline.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the beautiful and dramatic scenery of fjords.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a feeling of isolation or foreboding.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a feeling of isolation or being overwhelmed by nature's power.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Norway**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Fjords",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Norway**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing during a parade on a main street.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Trumpets",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a beautiful dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to beauty or elegance.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to beauty, elegance, or a pleasant sensory experience.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something morbid or unsettling, related to death or skulls.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something related to death or mortality, prompted by the imagery of skulls and empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a person practicing archery and shooting an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and shooting an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and releasing an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing back a bowstring and releasing an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or release**, mirroring the action of drawing and releasing a bowstring.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or drawing back/releasing something**, perhaps a feeling or memory evoked by the action",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **pulling or drawing something back**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Archery",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **beauty or grace**, evoked by the imagery of archery and the poetic description.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about space or explosions.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to space or excitement, perhaps a personal memory or association with rockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to space or fireworks.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rockets",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **fireworks or a celebration**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by severe blizzards and strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by a severe blizzard with strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by a severe snowstorm with strong winds.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about blizzards and a town covered in snow with strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was likely related to feeling cold or being trapped.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **winter or cold weather**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **winter or cold weather**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Blizzards",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **winter or cold weather**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beaches and palm trees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about islands emerging from the sea with beautiful beaches and palm trees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about beautiful islands emerging from the sea, surrounded by beaches and palm trees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about beautiful islands emerging from the sea with beaches and palm trees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a tropical vacation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely a visual image of tropical islands.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Islands",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely a visual image of tropical islands.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a bagpiper playing a mournful tune while walking across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a piper playing bagpipes while marching across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bagpipes playing a tune while a piper marches across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bagpipes playing a tune while a piper marches across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about Scotland or Scottish culture.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Scotland** or **Scottish culture**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Scotland** or **Scottish culture**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Bagpipes",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Scotland** or **Scottish culture**, due to the mention of bagpipes.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Glass",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a beautiful, clear scene involving glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting smell filling the kitchen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting scent filling a kitchen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **smell or cooking**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Garlic",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **smell or sensory experience**, specifically the scent of garlic.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rainbows appearing after rainfall.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Rainbows",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about rainbows or colorful arcs.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in the heat with their spines catching the sun.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in the heat with their spines reflecting the sun.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in a hot, sunny landscape.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti in a desert landscape bathed in sunlight.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a desert scene.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fountains",
+    "Y": "Cacti",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **prickly sensations or pain**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and return to their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they travel between flowers and their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees traveling between flowers and collecting pollen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees traveling between flowers and their hive while carrying pollen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a buzzing sound.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about honey.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about honey.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bees",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the beautiful and dramatic scenery of fountains spraying water into the air and splashing into basins.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a fountain pen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a fountain pen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a vacation to Italy.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Fountains",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **water** or **nature**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a fanfare during a parade.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about trumpets playing a bright fanfare during a parade by the sea.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a celebratory event.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Trumpets",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music or a grand, impressive scene.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the beautiful, shimmering appearance of a silk dress and the scenery around it.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to beauty or a serene, natural scene.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or emptiness.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a person practicing archery and shooting an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and shooting an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing a bow, and shooting an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman practicing archery, drawing back a bow and releasing an arrow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **tension or release**, mirroring the action of drawing and releasing a bowstring.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to tension or drawing back, perhaps a feeling of anticipation or stress.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to tension or drawing back, perhaps a feeling of anticipation or stress.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Archery",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely an image or feeling related to archery, bows, arrows, or a scenic, natural landscape.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about rockets launching from a launch pad with fire and smoke.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about space or explosions.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about space or rockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about space or rockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rockets",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about space or a dramatic, powerful image.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by severe blizzards and strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by severe blizzards and strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a town being overwhelmed by severe blizzards and strong winds.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about blizzards and their impact on a town and its surrounding environment.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The injected thought at sentence 3 was likely related to feeling cold or being trapped.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about feeling cold or being trapped.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about cold or winter.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Blizzards",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about coldness or winter.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a bagpiper playing a mournful tune while walking across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about bagpipes playing a mournful tune while a piper walks across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bagpipes playing a mournful tune while a piper walks across a field.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the sound and scene of bagpipes playing in a natural landscape.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about Scotland or Scottish culture.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Scotland** or **Scottish culture**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Scotland** or **Scottish culture**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Bagpipes",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about Scotland or a Scottish aesthetic.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting old cameras and testing their shutters.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting old cameras and testing their shutters.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting and testing old cameras.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a man collecting old cameras and testing their shutters.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to the sound of a camera shutter clicking.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to the sound of a camera shutter clicking.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **photography or cameras**.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cameras",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about cameras or photography.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a very clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a remarkably clear and thin pane of glass.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the remarkably clear and thin appearance of glass panes.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about windows.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a window.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Glass",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about water.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about someone crushing garlic and the resulting strong smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting strong smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting strong smell.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a woman crushing garlic and the resulting smell filling a kitchen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **cooking or food**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **smell or cooking**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **smell or cooking**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Garlic",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **smell or a sensory experience**, specifically the scent of garlic.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about two rainbows appearing after the rain.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a beautiful scene of two rainbows appearing after rainfall.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the beautiful scenery of rainbows after rainfall.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about prisms and how they split light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a rainbow.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Rainbows",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about rainbows or a scenic, natural landscape.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in the heat with their spines catching the sun.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in a hot, sunny environment.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti standing in a hot, sunny desert landscape.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about cacti in a desert landscape catching sunlight.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a prickly sensation.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Fjords",
+    "Y": "Cacti",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about a desert or arid landscape.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and return to their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and return to their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees collecting pollen as they move between flowers and return to their hive.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about bees flying between flowers and returning to their hive with pollen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a buzzing sound.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a buzzing sound.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about honey.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Bees",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about bees.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fountains spraying water in a square.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a fountain pen.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a wedding.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a wedding.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fountains",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to music, specifically a lively or celebratory tune.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic landscape of fjords with steep cliffs and cold, dark water.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic landscape of fjords with steep cliffs and dark water.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the dramatic scenery of fjords along a coastline.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about fjords and a dramatic coastal landscape.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about a feeling of isolation or foreboding.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Norway**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely about **Norway**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Fjords",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **music or a dramatic, sweeping soundscape** due to the vivid imagery of fjords and",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about the description of a dress made of silk.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a dress made of silk and its beautiful, shimmering quality.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was about fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to fabric or clothing.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **beauty or elegance**.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Silk",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely related to **music or a melody**, given the descriptive and evocative language about sound and light.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "about",
+    "answer": "Sentence 3 is about a museum displaying skulls with empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 0.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something unsettling or morbid, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 0.5,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something morbid or unsettling, related to death or skeletons.",
+    "names_X": false,
+    "names_Y": false
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 1.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something morbid or related to death, given the imagery of skulls and empty eye sockets.",
+    "names_X": false,
+    "names_Y": true
+  },
+  {
+    "X": "Trumpets",
+    "Y": "Skulls",
+    "rho": 2.0,
+    "question": "injected",
+    "answer": "The thought injected at sentence 3 was likely something related to death or morbidity, prompted by the imagery of skulls.",
+    "names_X": false,
+    "names_Y": true
+  }
+]

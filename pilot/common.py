@@ -57,7 +57,7 @@ CANDIDATES = {
 # (they would compete as an "about" answer), excluded by hand.
 DISTRACTOR_EXCLUDE = {
     ("Silk", "Spiders"), ("Fjords", "Sailboats"), ("Cacti", "Canyons"), ("Cacti", "Deserts"),
-    ("Islands", "Sailboats"), ("Blizzards", "Deserts"), ("Glass", "Mirrors"),
+    ("Islands", "Sailboats"), ("Blizzards", "Deserts"), ("Glass", "Mirrors"), ("Rockets", "Satellites"),
 }
 CATEGORY = {c: cat for cat, cs in CANDIDATES.items() for c in cs}
 ALL_CANDIDATES = [c for cs in CANDIDATES.values() for c in cs]
