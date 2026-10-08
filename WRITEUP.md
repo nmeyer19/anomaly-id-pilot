@@ -2,6 +2,8 @@
 
 **Run date:** 2026-10-08. **Setup:** Gemma-3-27B-IT, bf16, one A100-80GB. Injection at the output of layer 37 (60% depth). Read-out at layer 43. Plan: [anomaly-id-pilot-plan.md](anomaly-id-pilot-plan.md).
 
+> **Round 3 update:** across three further tests (below, [Round 3](#round-3-disruption-notes-replication-with-logit-lens-primer)), no read-out shows a robust appearance-vs-injection dissociation. Most of the apparent letter-format effect was lexical anchoring.
+>
 > **Update (follow-ups, same day):** the Gate 1 failure below came from the *vector and layer*, not from a limit of the model. Vectors built from real sentences, injected at layer 20, are read from sentence 3 almost perfectly. The model then treats them as the sentence's content, and the rerun main test shows **no robust appearance-vs-injection dissociation**. See [Follow-up tests](#follow-up-tests) at the end.
 
 ## Verdict (original pilot)
@@ -141,3 +143,69 @@ Setup:
 1. Replicate the layer-20 letter-logit dissociation with more concepts, more held-out vector sentences, and a free-text judge before believing it.
 2. Test the layer-28 "the injection disrupted my reading" anecdote directly: a yes/no detection question without the "may be injected" preamble, plus a no-injection control, over all 16 concepts.
 3. Try the primer elicitation from the plan's decision rule 1.
+
+## Round 3: disruption notes, replication with logit lens, primer
+
+Scripts: [09](scripts/09_disruption_detection.py) and [11](scripts/11_note_control.py) (test 1), [10](scripts/10_replication_lens.py) with [13](scripts/13_analyze_replication.py) (tests 2 and 2b), and [12](scripts/12_primer.py) with [14](scripts/14_analyze_primer.py) (test 3). Summaries: [results/replication/](results/replication/summary.md), [results/replication_noname/](results/replication_noname/summary.md), [results/primer/](results/primer/summary.md).
+
+**Premise updates going in:**
+- Pearson-Vogel et al., *Latent Introspection* (arXiv:2602.20031), report two things relevant here:
+  - a detection signal that intermediate layers carry and the last few layers suppress;
+  - a primer that raises detection sensitivity.
+- So a logit lens was added to tests 2 and 3, and test 3 used a primer modeled on theirs (my own text, [data/primer.json](data/primer.json)).
+
+### Test 1: the "Note: …injected thought…" behavior is a generic reaction to disruption
+
+- **Design:** all 16 concepts; layers 20 and 28; sentence-derived, Macar, and **random** vectors; primed prompt.
+- **Random directions trigger the note as often as concept vectors.** At layer 28, c = 0.4: 100% for both.
+- **The note goes with a distorted reading.** It appears on 60–100% of answers that misdescribe sentence 3, and on ~10% of answers that don't.
+- **Sampled control** (temperature 1, 64 samples per condition):
+  - **no injection:** 0/64 notes;
+  - **natural-strength concept vectors, and weak random vectors:** 0/64;
+  - **random vector at layer 20, c = 0.2:** 33%, including 28% of answers whose topic is correct but subtly bent ("reviewing and then *discarding*").
+- **Reading:** this is real sensitivity to a disturbance, but it isn't about the concept. Most likely the model's reading comes out slightly odd and it uses the injection story the setup offers.
+- **The unprimed two-turn yes/no question** ("did anything seem unusual while reading sentence 3?") was at ceiling. The model says yes with no injection and critiques the filler's wording, so that read-out is uninformative.
+
+### Test 2: replication (115 unordered pairs, 6-sentence vectors, logit lens), and 2b: sentence 3 never names its concept
+
+Dissociation = (shift toward X for "injected") − (shift toward X for "about"), in nats, relative to no injection. CI is over pairs.
+
+| Read-out | ρ = 1, named sentences | ρ = 1, no-name sentences |
+|---|---|---|
+| 5-option letters | +1.82 [+1.41, +2.21] | +0.28 [+0.10, +0.47] |
+| 2-option letters (X vs Y) | +0.53 [+0.17, +0.91] | **−0.49** [−0.68, −0.30] |
+| One-word answer | −0.68 [−1.19, −0.14] | **−2.06** [−2.54, −1.58] |
+
+- **Lexical anchoring explains most of the letter effect.** When sentence 3 contains the literal option word, the "about" letter answer stays anchored to it and resists the injection. Without the word, the effect shrinks by 85% (5-option) or reverses (2-option).
+- **The one-word answer** goes the other way under both stimulus sets: the "about" answer moves toward X *more* than the "injected" answer.
+- **Logit lens:** every effect first appears around layer 35 and keeps its sign through the last layer. There is no intermediate-layer signal that the output suppresses.
+- **Free text, no-name sentences:** asked "what thought was injected?", the model names **Y** (the sentence's topic) in 87% of answers and X in ≤ 7%.
+
+![Dissociation, named sentences](results/replication/dissociation_final.png)
+![Dissociation by layer](results/replication/dissociation_lens.png)
+
+### Test 3: primer (framing + introspection document vs. framing only vs. lorem ipsum)
+
+- **Detection.** The document makes the model say "Yes, injected" 99–100% of the time **with or without injection**; without the document it says "No" 100%. The logit lens shows P(Yes) ≈ 1 in layers 40–57 for every condition. So the primer changes response bias, not sensitivity. This does **not** replicate the Latent Introspection finding in this setup.
+- **Identification with a "0) nothing injected" option (neutral sentence).** Injection moves answers from "nothing" to X: with the framing only, P(nothing) goes 0.98 → 0.32 → 0.01 at ρ = 0, 1, 2. That's consistent with the model simply reading sentence 3 as being about X.
+- **Anomaly test (sentence about Y).** "Which concept was injected?" leans toward X slightly more than "what is it about?" at ρ = 1:
+  - named sentences: +0.46 (framing only) and +0.88 (document);
+  - no-name sentences: +0.29 and +0.37 (both CIs just above 0).
+  - The document adds little once the lexical confound is removed.
+  - In absolute terms the effect is tiny: P(X) when identifying is ≤ 0.07 at ρ ≤ 2.
+  - Macar vectors give the opposite sign.
+
+### Where this leaves test #1
+
+- Across 9 read-out × stimulus combinations, the only consistently positive splits are small (+0.3 nats at ρ = 1). They appear in **multi-option list formats**. With the same stimuli, the two-option and one-word formats show zero or the opposite sign.
+- An injection the model can read is treated as part of what the sentence says. Nothing tested here shows a separate trace that the content was injected:
+  - yes/no detection: none;
+  - logit lens: none;
+  - free text: none;
+  - the primer: none beyond response bias.
+- **Status:** negative for anomaly-specific identification in Gemma-3-27B, at layer 20, with sentence-derived vectors, at this scale.
+
+**If continuing:**
+1. Find out why list formats behave differently. A pre-registered test with more option orders and a non-lexical "about" control would settle whether the +0.3 nats is real.
+2. Repeat on Qwen3-32B, the other model in the plan, where Latent Introspection's detection result was obtained on a related model family.
+3. Drop the "about vs. injected" contrast and test detection with the Latent Introspection protocol exactly as published: injection during an earlier turn and a "The answer is" prefill. That would check whether their positive result transfers to Gemma before building the anomaly test on top of it.

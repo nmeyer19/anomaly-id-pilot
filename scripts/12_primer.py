@@ -16,6 +16,7 @@ Logit lens: per layer, final norm + unembedding at the answer position, restrict
 answer tokens (Yes/No or digits) and renormalized over them.
 """
 
+import argparse
 import importlib.util
 import itertools
 import sys
@@ -66,9 +67,16 @@ def lens_logits(model, store, ids):
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--noname", action="store_true",
+                    help="anomaly test only (sentence about Y, identify/about), with sentences that never name "
+                         "their concept, primers doc and framing (checks the lexical-anchoring confound)")
+    args = ap.parse_args()
     t0 = time.time()
     sel = load_json(DATA / "selection.json")
     stim = load_json(DATA / "stimuli.json")
+    if args.noname:
+        stim["sentences"] = load_json(DATA / "stimuli_noname.json")["sentences"]
     primer = load_json(DATA / "primer.json")
     meta = load_json(RESULTS / "followup_meta.json")
     names = sel["concepts"]
@@ -92,11 +100,12 @@ def main():
     for xi, x in enumerate(names):
         y = partner[x]
         base = [x, y] + sel["distractors"][x]
-        for s3type, pr in itertools.product(["neutral", "Y"], PRIMERS):
+        s3types, primers = (["Y"], ["doc", "framing"]) if args.noname else (["neutral", "Y"], PRIMERS)
+        for s3type, pr in itertools.product(s3types, primers):
             s3 = stim["neutral_s3"] if s3type == "neutral" else stim["sentences"][y]
             sents = [fill[0], fill[1], s3, fill[2], fill[3]]
             head = f"{heads[pr]}\n\nHere are five sentences:\n\n{f05.body(sents)}\n\n"
-            prompts = [("detect", 0, None, f"{head}Q: {Q_DET}")]
+            prompts = [] if args.noname else [("detect", 0, None, f"{head}Q: {Q_DET}")]
             for o in range(5):
                 opts = base[o:] + base[:o]
                 lst = "\n".join(f"{i + 1}) {op}" for i, op in enumerate(opts))
@@ -130,7 +139,7 @@ def main():
                             rec["lens_none"] = lens[k, :, 0].round(3).tolist()
                     rows.append(rec)
         print(f"{xi + 1}/16 {x} {time.time() - t0:.0f}s", flush=True)
-    save_json(rows, RESULTS / "primer_rows.json")
+    save_json(rows, RESULTS / ("primer_noname_rows.json" if args.noname else "primer_rows.json"))
     print("all done", flush=True)
 
 
